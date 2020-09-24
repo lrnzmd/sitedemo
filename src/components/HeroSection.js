@@ -10,7 +10,7 @@ function Herosection() {
             <h1>ADVETURES AWAIT</h1>
             <p>What are you waiting for?</p>
             <div className="hero-btns">
-                <Button className="btn trasparent" buttonStyle='btn--outline' buttonStyle="btn-large" >
+                <Button className="btn" buttonStyle='btn--outline' buttonStyle="btn-large" >
                     GET STARTED
                 </Button>
                 <Button className="btn" buttonStyle='btn--primary' buttonStyle="btn-large">
