@@ -101,6 +101,7 @@
     .nav-menu.active {
       background: #242222;
       left: 0;
+      width: 100%;
       opacity: 1;
       transition: all 0.5s ease;
       z-index: 1;
@@ -109,8 +110,9 @@
     .nav-links {
       text-align: center;
       justify-content: center;
-      padding:  0 30rem;
+      padding:  0 0;
       width: auto;
+      min-width: 900px;
       display: flex;
       justify-content: center;
     }
@@ -147,7 +149,6 @@
       display: block;
       text-align: center;
       border-radius: 4px;
-      width: 80%;
       text-decoration: none;
       font-size: 1.5rem;
       background-color: transparent;
