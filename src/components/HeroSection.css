@@ -71,3 +71,10 @@ video {
       width: 100%;
     }
   }
+
+  @media screen and (max-width: 960px){
+   ul {
+    padding: 0;
+    margin: 0;
+    /* position: absolute; */
+ }}
