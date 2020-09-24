@@ -80,7 +80,7 @@
       position: relative;
     }
   
-    ul{
+    .navbar-container >ul{
         padding: 0;
         margin: 0;
         position: absolute;
